@@ -16,9 +16,9 @@
           data-aos="fade-up"
           data-aos-delay="200"
         >
-          <video width="900" controls autoplay muted class="img-fluid">
+          <video width="900" controls autoplay muted class="img-fluid" style="height: 100%;">
             <source src="" type="video/mp4" />
-            <!-- <source src="/src/assets/videos/Vendas.mp4" type="video/mp4" /> -->
+            <source src="/src/assets/videos/videoTop.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
           <!-- <img src="assets/img/features-1.jpg" class="img-fluid" alt=""> -->

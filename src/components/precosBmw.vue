@@ -1,3 +1,6 @@
+<script setup>
+  import formasDePagEsiteSeguro from './formasDePagEsiteSeguro.vue';
+</script>
 <template>
   <section id="pricing" class="pricing section light-background">
     <!-- Section Title -->
@@ -93,5 +96,6 @@
         <!-- End Pricing Item -->
       </div>
     </div>
+    <formasDePagEsiteSeguro/>
   </section>
 </template>

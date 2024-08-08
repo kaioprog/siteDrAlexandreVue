@@ -1,6 +1,10 @@
-<script setup></script>
+<script setup>
+  import {ref} from "vue"
+  const larguraTela = ref(screen.width)
+  // console.log(larguraTela.value)
+</script>
 <template>
-    <section id="hero" class="hero section" style="background-color: #fff;">
+    <section id="hero" class="hero section" style="background-color: #fff;" :style="larguraTela < 600 ? 'min-height: 28vh; margin-top: 2rem;' : ''">
       <div class="hero-bg">
         <img src="/src/assets/img/bmv/topoTransparente.png" alt="" />
       </div>

@@ -6,12 +6,12 @@
     data-aos-offset="10"
   >
     <div class="container">
-      <div class="container section-title mb-3" data-aos="fade-up">
+      <div class="container section-title" data-aos="fade-up">
         <h2>Dr. Alexandre Mota</h2>
       </div>
 
       <div class="row gy-4 justify-content-between features-item text-center">
-        <div class="col-lg-6">
+        <div class="col-lg-6 m-0">
           <img
             src="/src/assets/img/bmv/drAlexandre.png"
             class="img-fluid drAlexandre"

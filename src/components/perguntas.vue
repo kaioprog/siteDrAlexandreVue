@@ -1,5 +1,5 @@
 <template>
-    <section id="faq" class="faq section">
+    <section id="faq" class="faq section pb-0">
       <!-- Section Title -->
       <div class="container section-title" data-aos="fade-up">
         <h2>O que as pessoas perguntam?</h2>

@@ -18,16 +18,14 @@
             </video>
             <!-- <img src="assets/img/features-1.jpg" class="img-fluid" alt=""> -->
           </div>
-          <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100" style="font-size: x-large;     display: flex;
-              flex-direction: column;
-              align-items: center;">
-            <div>
+          <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="100" style="font-size: x-large;     display: flex;flex-direction: column;">
+            <div style="display: flex;flex-direction: column;align-items: flex-start;">
               <h3 style="font-size: 1.6rem; margin-bottom: 2rem; text-align: center;"><i  style="color: #64a8a6;" class="bi bi-phone"></i> Tão
                 fácil quanto curtir uma série no celular</h3>
                 <h3 style="font-size: 1.6rem; margin-bottom: 2rem; text-align: center;"><i style="color: #64a8a6;" class="bi bi-play-btn"></i> Use exercícios fáceis
                 para:</h3>
             </div>
-            <ul style="margin-left: 1.5rem;">
+            <ul>
               <li>
                 <i class="bi bi-check-circle"></i>
                 <span>Aliviar Dores</span>

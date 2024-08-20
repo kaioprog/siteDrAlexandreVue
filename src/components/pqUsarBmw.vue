@@ -6,7 +6,7 @@
       data-aos="fade-up"
       data-aos-offset="10"
     >
-      <h2>Por que você deve fazer parte ​da Plataforma BMV</h2>
+      <h2>Por que você deve fazer parte ​da Programa BMV</h2>
       <!-- <p>
           Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
           consectetur velit
@@ -20,11 +20,9 @@
           <div class="service-item item-cyan position-relative">
             <i class="bi bi-graph-up-arrow icon"></i>
             <div>
-              <h3>Melhoria constante da plataforma</h3>
+              <h3>MELHORIA CONSTANTE</h3>
               <p>
-                Nossa plataforma está em constante evolução, incorporando
-                feedback dos usuários e novas tecnologias para oferecer a melhor
-                experiência possível.
+                O Programa BMV foi feito para crescer e melhorar sempre com novos conteúdos, lives, canais de comunicação, tecnologia e estratégias do Bom Movimento para estarmos cada vez mais próximos e te ajudar da melhor forma que pudermos.
               </p>
             </div>
           </div>
@@ -35,10 +33,9 @@
           <div class="service-item item-orange position-relative">
             <i class="fas fa-play-circle icon"></i>
             <div>
-              <h3>Assista as aulas no celular, tablet, notebook ou desktop</h3>
+              <h3>FAÇA SEUS EXERCÍCIOS ONDE QUISER</h3>
               <p>
-                Acesso ilimitado às aulas em qualquer dispositivo, permitindo
-                que você aprenda e pratique onde e quando quiser.
+                Você pode assistir as aulas e fazer os exercícios junto comigo em qualquer dispositivo: celular, tablet, computador, notebook e até na sua Smart TV.”
               </p>
             </div>
           </div>
@@ -49,10 +46,9 @@
           <div class="service-item item-teal position-relative">
             <i class="bi bi-broadcast icon"></i>
             <div>
-              <h3>Lives exclusivas</h3>
+              <h3>LIVES EXCLUSIVAS</h3>
               <p>
-                Participe de transmissões ao vivo exclusivas com especialistas,
-                onde você pode interagir em tempo real e tirar suas dúvidas.
+                Participe das lives exclusivas com os alunos do Programa BMV, onde você pode conversar e tirar suas dúvidas ao vivo com o Dr. Alexandre.
               </p>
             </div>
           </div>
@@ -63,11 +59,9 @@
           <div class="service-item item-red position-relative">
             <i class="fas fa-handshake icon"></i>
             <div>
-              <h3>Acompanhamento especializado</h3>
+              <h3>ACOMPANHAMENTO ESPECIALIZADO</h3>
               <p>
-                Receba orientação e suporte contínuos de profissionais
-                qualificados para garantir que você está no caminho certo para
-                melhorar sua saúde.
+                Além da melhora de hoje, é fundamental manter atualizada a sua Rotina do Bom Movimento. Receba orientações e dicas para continuar no caminho certo e ter cada vez mais saúde e menos dores.
               </p>
             </div>
           </div>
@@ -78,10 +72,9 @@
           <div class="service-item item-indigo position-relative">
             <i class="fas fa-film icon"></i>
             <div>
-              <h3>Novas séries sem custo adicional</h3>
+              <h3>NOVAS SÉRIES SEM CUSTO ADICIONAL</h3>
               <p>
-                Acesso a novas séries de exercícios e conteúdos adicionais
-                regularmente, sem qualquer custo extra para você.
+                O Programa BMV sempre terá novas séries com mais aulas, objetivos e estratégias diferentes para ajudar cada vez mais pessoas. Enquanto sua assinatura estiver ativa, você terá acesso às novas séries, lives e aperfeiçoamentos sem aumento na mensalidade!
               </p>
             </div>
           </div>
@@ -92,10 +85,9 @@
           <div class="service-item item-pink position-relative">
             <i class="fas fa-clock icon"></i>
             <div>
-              <h3>Liberdade de tempo</h3>
+              <h3>LIBERDADE DE TEMPO</h3>
               <p>
-                Estude e pratique no seu próprio ritmo, sem a pressão de prazos
-                ou horários fixos, adaptando-se à sua rotina.
+                Usar o Bom Movimento deve ser algo prático para encaixar na rotina de todo mundo. Além dos exercícios serem simples e rápidos, você segue as aulas no seu ritmo, sem pressão.
               </p>
             </div>
           </div>
@@ -107,11 +99,9 @@
           <div class="service-item item-pink position-relative">
             <i class="fas fa-shield-alt icon"></i>
             <div>
-              <h3>Garantia de 7 dias</h3>
+              <h3>GARANTIA DE 7 DIAS</h3>
               <p>
-                Experimente a plataforma sem compromisso com nossa garantia de 7
-                dias. Se não estiver satisfeito, você pode cancelar e receber
-                seu dinheiro de volta.
+                Experimente o Programa BMV por 7 dias sem compromisso. Se não conseguirmos ajudar você a ter mais saúde, leveza, sensação de bem-estar e alívio, você pode cancelar e receber seu dinheiro de volta.
               </p>
             </div>
           </div>
@@ -123,11 +113,9 @@
           <div class="service-item item-pink position-relative">
             <i class="fab fa-telegram icon"></i>
             <div>
-              <h3>Grupo no Telegram</h3>
+              <h3>GRUPO NO TELEGRAM</h3>
               <p>
-                Junte-se à nossa comunidade no Telegram para discutir,
-                compartilhar experiências e obter suporte adicional de outros
-                membros e especialistas.
+                Tenha acesso a um grupo exclusivo no Telegram para tirar suas dúvidas, dizer suas dificuldades, compartilhar experiências e receber suporte da equipe e de outros alunos com vivências semelhantes.
               </p>
             </div>
           </div>
@@ -139,11 +127,9 @@
           <div class="service-item item-pink position-relative">
             <i class="fas fa-comments icon"></i>
             <div>
-              <h3>Suporte personalizado</h3>
+              <h3>SUPORTE PERSONALIZADO</h3>
               <p>
-                Tenha acesso a um suporte dedicado e personalizado para resolver
-                quaisquer problemas ou dúvidas que possam surgir durante seu uso
-                da plataforma.
+                Tire suas dúvidas sobre os exercícios e o Bom Movimento com o Dr. Alexandre e as dificuldades técnicas com o suporte técnico da Kiwify.
               </p>
             </div>
           </div>
@@ -155,11 +141,9 @@
           <div class="service-item item-pink position-relative">
             <i class="fas fa-users icon"></i>
             <div>
-              <h3>Ambiente de comunidade</h3>
+              <h3>AMBIENTE DE COMUNIDADE</h3>
               <p>
-                Faça parte de uma comunidade engajada e motivada, onde você pode
-                encontrar apoio, inspiração e compartilhar seu progresso com
-                outros membros.
+                Encontre apoio, motivação e inspiração com outros alunos que conseguiram superar desafios semelhantes e compartilhe seu progresso para engajar e motivar outras pessoas a continuarem cada vez melhores.
               </p>
             </div>
           </div>

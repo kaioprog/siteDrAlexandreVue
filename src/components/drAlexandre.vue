@@ -11,27 +11,34 @@
       </div>
 
       <div class="row gy-4 justify-content-between features-item text-center">
-        <div class="col-lg-6 m-0">
-          <img
+        <div class="col-lg-6 mt-4">
+          <!-- <img
             src="/src/assets/img/bmv/drAlexandre.png"
             class="img-fluid drAlexandre"
             alt=""
-            width="600" 
+            width="" 
             style="border-radius:unset"
-          />
+          /> -->
+          <video
+            width="800"
+            autoplay
+            muted 
+            loop
+            class="img-fluid"
+            style="height: 90%"
+          >
+            <source src="/src/assets/videos/drAleVideo.mp4" type="video/mp4" />
+            Your browser does not support the video tag.
+          </video>
         </div>
 
-        <div class="col-lg-5 d-flex align-items-center">
+        <div class="col-lg-6 d-flex align-items-center">
           <div class="content text-center">
             <h2 class="mb-5">
               Há 8 anos aliviando a dor de milhões de pessoas pela internet
             </h2>
-            <p style="font-size: large; color: black">
-              Com mais de <b>1 milhão e 100 mil inscritos</b> no seu canal no
-              YouTube, <b>Dr. Alexandre Mota</b> se dedica à missão de ajudar
-              pessoas no mundo todo a aliviarem dores e desconforto e terem mais
-              saúde e qualidade de vida com exercícios fáceis que devolvem o
-              <b>Bom Movimento</b> para o corpo.
+            <p style="font-size: large; text-align: justify;">
+              <strong>Dr. Alexandre Mota</strong>&nbsp;se dedica à missão de ajudar pessoas no mundo todo a terem mais saúde, qualidade de vida, liberdade e aliviarem dores e com exercícios fáceis que devolvem o&nbsp;<strong>Bom Movimento</strong>&nbsp;para o corpo. Além de <strong>Fisioterapeuta</strong> (UESPI - 2006), Dr. Alexandre concluiu formações e especialidades como <strong>Osteopatia</strong> (EBOM e EBRAFIM), <strong>RPG</strong> (método Souchard), Pilates Contemporâneo e <strong>Especialização em</strong> <strong>Acupuntura Tradicional Chinesa</strong> (FSJ).
             </p>
             <!-- <a href="https://www.youtube.com/@DrAlexandreMota" target="_blank" class="btn more-btn">Ver canal</a> -->
           </div>

@@ -7,9 +7,9 @@
     >
       <a href="/" class="logo d-flex align-items-center me-auto">
         <!-- <img src="assets/img/logo.png" alt="" /> -->
-        <span class="circle">Dr.</span>
+        <span class="circle">Dr. </span>
         <h1 class="sitename" style="color: #63b2af; font-size: 24px">
-          Alexandre
+          Alexandre Mota
         </h1>
       </a>
 

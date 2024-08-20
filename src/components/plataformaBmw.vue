@@ -2,7 +2,7 @@
   <section id="more-features" class="more-features section light-background">
     <div class="container">
       <div class="container section-title" data-aos="fade-up">
-        <h2>Plataforma Bom Movimento ​para a Vida</h2>
+        <h2>Programa Bom Movimento ​para a Vida</h2>
         <!-- <p>
               Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
               consectetur velit
@@ -15,11 +15,7 @@
           data-aos-delay="100"
         >
           <p>
-            A Plataforma Bom Movimento para a Vida é sua aliada definitiva para
-            alcançar um bem-estar físico pleno. Desenvolvida com o objetivo de
-            proporcionar alívio rápido das dores, melhorar seus movimentos e
-            aumentar sua qualidade de vida, nossa plataforma oferece uma
-            abordagem completa e personalizada para cuidar da sua saúde.
+            O Programa BMV - Bom Movimento para a Vida foi criado para devolver o equilíbrio de movimento que seu corpo precisa diariamente e conseguir mais saúde, leveza, bem-estar e alívio de dores. Os exercícios são fáceis, seguros e confortáveis.
           </p>
 
           <div class="row">
@@ -50,7 +46,7 @@
             <div class="col-lg-6 icon-box d-flex">
               <i class="bi bi-question"></i>
               <div>
-                <h4>Tire suas dúvidas com Dr. Alexandre Mota</h4>
+                <h4>Use as estratégias do Bom Movimento para evitar dores</h4>
                 <!-- <p>
                     Explicabo est voluptatum asperiores consequatur magnam. Et
                     veritatis odit

@@ -61,9 +61,9 @@
   position: relative;
   width: 300px;
   height: 600px;
-  border: 16px black solid;
-  border-top: 60px black solid;
-  border-bottom: 60px black solid;
+  border: 16px #13475b solid;
+  border-top: 60px #13475b solid;
+  border-bottom: 60px #13475b solid;
   border-radius: 36px;
   background: #000;
   overflow: hidden;
@@ -110,7 +110,7 @@
 --------------------------------------------------------------*/
 body {
   color: var(--default-color);
-  background-color: var(--background-color);
+  background-color: #050a30;
   font-family: var(--default-font);
 }
 
@@ -131,7 +131,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: var(--heading-color);
+  color: #07bb94;
   font-family: var(--heading-font);
 }
 
@@ -242,20 +242,48 @@ h6 {
 
 .header .btn-getstarted,
 .header .btn-getstarted:focus {
-  color: var(--contrast-color);
-  background: var(--accent-color);
-  font-size: 14px;
+  color: black;
+  background: #fd9604;
+  font-size: 15px;
   padding: 8px 25px;
   margin: 0 0 0 30px;
   border-radius: 50px;
   transition: 0.3s;
 }
 
-.header .btn-getstarted:hover,
+.btn-getstarted {
+  color: black;
+  background: #fd9604;
+  font-size: 15px;
+  padding: 8px 25px;
+  /* margin: 0 0 0 30px; */
+  border-radius: 50px;
+  transition: 0.3s;
+}
+
+.mao {
+  position: absolute;
+  top: 100%;
+  right: 2px; /* Posiciona a mãozinha fora do botão */
+  transform: translateY(-50%);
+  width: 40px; /* Ajuste do tamanho da imagem */
+  height: 40px;
+  animation: piscar 1s infinite; /* Animação de piscar */
+}
+@keyframes piscar {
+  0%, 100% {
+      opacity: 1;
+  }
+  50% {
+      opacity: 0;
+  }
+}
+
+/* .header .btn-getstarted:hover,
 .header .btn-getstarted:focus:hover {
   color: var(--contrast-color);
   background: color-mix(in srgb, var(--accent-color), transparent 15%);
-}
+} */
 
 @media (max-width: 1200px) {
   .header .logo {
@@ -264,7 +292,7 @@ h6 {
 
   .header .btn-getstarted {
     order: 2;
-    margin: 0 15px 0 0;
+    margin: 0 0 0 0;
     padding: 6px 15px;
   }
 
@@ -874,7 +902,7 @@ h6 {
 section,
 .section {
   color: var(--default-color);
-  background-color: var(--background-color);
+  background-color: #050a30;
   padding: 60px 0;
   scroll-margin-top: 100px;
   overflow: clip;
@@ -922,6 +950,8 @@ section,
   margin-bottom: 0;
 }
 
+
+
 /*--------------------------------------------------------------
 # Hero Section
 --------------------------------------------------------------*/
@@ -929,7 +959,7 @@ section,
   width: 100%;
   min-height: 70vh;
   position: relative;
-  padding: 180px 0 40px 0;
+  padding: 100px 0 0px 0;
   display: flex;
   align-items: center;
   overflow: hidden;
@@ -1480,7 +1510,7 @@ section,
 # Pricing Section
 --------------------------------------------------------------*/
 .pricing .pricing-item {
-  background-color: color-mix(in srgb, var(--accent-color), transparent 96%);
+  background-color: white;
   padding: 40px 40px;
   height: 100%;
   border-radius: 15px;
@@ -1631,9 +1661,10 @@ section,
   position: relative;
   padding: 20px;
   margin-bottom: 15px;
-  border: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
+  border: 2px solid rgb(7 187 148);
   border-radius: 5px;
   overflow: hidden;
+  background-color: white;
 }
 
 .faq .faq-container .faq-item:last-child {
@@ -1688,8 +1719,9 @@ section,
 }
 
 .faq .faq-container .faq-active {
-  background-color: color-mix(in srgb, var(--accent-color), transparent 97%);
+  background-color: #050a30;
   border-color: color-mix(in srgb, var(--accent-color), transparent 80%);
+  background-color: white
 }
 
 .faq .faq-container .faq-active h3 {
@@ -1769,12 +1801,13 @@ section,
 .testimonials .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: color-mix(in srgb, var(--default-color), transparent 85%);
+  /* background-color: color-mix(in srgb, var(--default-color), transparent 85%); */
+  background-color: var(--default-color);
   opacity: 1;
 }
 
 .testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: var(--accent-color);
+  background-color: #20c997;
 }
 
 .testimonials .swiper-slide {

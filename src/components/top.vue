@@ -1,7 +1,7 @@
 <script setup></script>
 
 <template>
-  <header id="header" class="header d-flex align-items-center fixed-top">
+  <header id="header" class="header d-flex align-items-center fixed-top" style="background-color: #050a30;">
     <div
       class="container-fluid container-xl position-relative d-flex align-items-center"
     >
@@ -14,10 +14,10 @@
       </a>
 
       <!-- NAV -->
-
-      <a class="btn-getstarted text-center blinking" href="/#pricing"
-        ><i class="bi bi-hand-index-thumb"></i> Quero ser aluno BMV</a
-      >
+      <a class="btn-getstarted text-center" href="/#pricing">
+        <b>QUERO SER ALUNO BMV</b>
+        <img src="/src/assets/img/bmv/maoClique.svg" class="mao" alt="Ícone de Mãozinha">
+      </a>
     </div>
   </header>
 </template>

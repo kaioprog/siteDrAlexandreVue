@@ -11,7 +11,7 @@
           <div class="col-lg-10" data-aos="fade-up" data-aos-delay="100">
             <div class="faq-container">
               <div class="faq-item faq-active">
-                <h3>Como acesso a plataforma ?</h3>
+                <h3 style="color: #050a30;">Como acesso a plataforma ?</h3>
                 <div class="faq-content">
                   <p>
                     Assim que o pagamento for confirmado, você recebe por e-mail todas as instruções, junto com login e senha de acesso. CUIDADO AO PREENCHER O E-MAIL.
@@ -22,7 +22,7 @@
               <!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>Qual a garantia?</h3>
+                <h3 style="color: #050a30;">Qual a garantia?</h3>
                 <div class="faq-content">
                   <p>
                     Você tem garantia de 7 dias. ​Dessa forma, se não ​conseguirmos te ajudar, ​devolvemos seu dinheiro. ​Basta pedir o cancelamento ​junto à Kiwify.
@@ -33,7 +33,7 @@
               <!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>
+                <h3 style="color: #050a30;">
                   Posso acessar por ​quanto tempo?
                 </h3>
                 <div class="faq-content">
@@ -46,7 +46,7 @@
               <!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>
+                <h3 style="color: #050a30;">
                   As gravações estão ​finalizadas?
                 </h3>
                 <div class="faq-content">
@@ -59,7 +59,7 @@
               <!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>
+                <h3 style="color: #050a30;">
                   Posso acessar a ​plataforma de ​qualquer lugar?
                 </h3>
                 <div class="faq-content">
@@ -72,7 +72,7 @@
               <!-- End Faq item-->
 
               <div class="faq-item">
-                <h3>Posso participar das ​lives?</h3>
+                <h3 style="color: #050a30;">Posso participar das ​lives?</h3>
                 <div class="faq-content">
                   <p>
                     Sim. As lives são exclusivas ​aos Alunos BMV. O link das ​lives é divulgado no grupo ​do Telegram. Ao final de ​cada live, as  gravações ​ficam disponíveis na ​plataforma.

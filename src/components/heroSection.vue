@@ -4,9 +4,10 @@
   // console.log(larguraTela.value)
 </script>
 <template>
-    <section id="hero" class="hero section" style="background-color: #fff;" :style="larguraTela < 600 ? 'min-height: 28vh; margin-top: 2rem;' : ''">
-      <div class="hero-bg">
-        <img src="/src/assets/img/bmv/topoTransparente.png" alt="" />
+    <section id="hero" class="hero section" style="background-color: #050a30;" :style="larguraTela < 600 ? 'min-height: 20vh; margin-top: 0rem;' : ''">
+      <!-- <div class="hero-bg"> -->
+      <div style="display: flex;justify-content: center;width: 100%;">
+        <img src="/src/assets/img/bmv/topoTransparente.png" alt="" style="width: 100%;"/>
       </div>
       <!-- <div class="container text-center">
           <div

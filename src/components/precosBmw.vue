@@ -1,5 +1,5 @@
 <script setup>
-  import formasDePagEsiteSeguro from './formasDePagEsiteSeguro.vue';
+import formasDePagEsiteSeguro from "./formasDePagEsiteSeguro.vue";
 </script>
 <template>
   <section id="pricing" class="pricing section light-background">
@@ -24,21 +24,36 @@
               justify-content: space-between;
             "
           >
-          <p class="popular">Recomendado</p>
-            <h2 class="mt-1">Assinatura anual</h2>
+            <p class="popular">Recomendado</p>
+            <h2 class="mt-1" style="color: #050a30">Assinatura anual</h2>
             <!-- <p class="description">
                 Ullam mollitia quasi nobis soluta in voluptatum et sint palora
                 dex strater
               </p> -->
-            <h6>12x de R$ 40,06</h6>
-            <h6>Ou</h6>
-            <h6>R$ 399<span> / ano</span></h6>
+            <h6 style="color: #050a30">12x de R$ 40,06</h6>
+            <h6 style="color: #050a30">Ou</h6>
+            <h6 style="color: #050a30">R$ 399<span> / ano</span></h6>
             <a
+              class="btn-getstarted text-center mt-3"
+              style="font-size: 19px"
               href="https://pay.kiwify.com.br/ck7KKX8"
               target="_blank"
-              class="cta-btn"
-              >Escolher plano anual <i class="bi bi-hand-index-thumb"></i
-            ></a>
+            >
+              <b>Escolher plano anual</b>
+              <img
+                src="/src/assets/img/bmv/maoClique.svg"
+                style="
+                  position: absolute;
+                  /* top: 143%;
+                right: 200px; */
+                  transform: translateY(50%);
+                  width: 40px;
+                  height: 40x;
+                  animation: piscar 1s infinite;
+                "
+                alt="Ícone de Mãozinha"
+              />
+            </a>
           </div>
         </div>
         <!-- End Pricing Item -->
@@ -52,20 +67,35 @@
               justify-content: space-between;
             "
           >
-            <h2>Assinatura semestral</h2>
+            <h2 style="color: #050a30">Assinatura semestral</h2>
             <!-- <p class="description">
                 Ullam mollitia quasi nobis soluta in voluptatum et sint palora
                 dex strater
               </p> -->
-            <h6>12x de R$ 51,49</h6>
-            <h6>Ou</h6>
-            <h6>R$ 279<span> / 6 meses</span></h6>
+            <h6 style="color: #050a30">12x de R$ 51,49</h6>
+            <h6 style="color: #050a30">Ou</h6>
+            <h6 style="color: #050a30">R$ 279<span> / 6 meses</span></h6>
             <a
+              class="btn-getstarted text-center mt-3"
+              style="font-size: 19px"
               href="https://pay.kiwify.com.br/OyxDP4A"
               target="_blank"
-              class="cta-btn"
-              >Escolher plano semestral <i class="bi bi-hand-index-thumb"></i
-            ></a>
+            >
+              <b>Escolher plano semestral</b>
+              <img
+                src="/src/assets/img/bmv/maoClique.svg"
+                style="
+                  position: absolute;
+                  /* top: 143%;
+                right: 200px; */
+                  transform: translateY(50%);
+                  width: 40px;
+                  height: 40x;
+                  animation: piscar 1s infinite;
+                "
+                alt="Ícone de Mãozinha"
+              />
+            </a>
           </div>
         </div>
         <!-- End Pricing Item -->
@@ -79,23 +109,38 @@
               justify-content: space-between;
             "
           >
-            <h2>Assinatura mensal</h2>
+            <h2 style="color: #050a30">Assinatura mensal</h2>
             <!-- <p class="description">
                 Ullam mollitia quasi nobis soluta in voluptatum et sint palora
                 dex strater
               </p> -->
-            <h6>R$ 59,90<span> / mês</span></h6>
+            <h6 style="color: #050a30">R$ 59,90<span> / mês</span></h6>
             <a
+              class="btn-getstarted text-center mt-3"
+              style="font-size: 19px"
               href="https://pay.kiwify.com.br/q03V8kv"
               target="_blank"
-              class="cta-btn"
-              >Escolher plano mensal <i class="bi bi-hand-index-thumb"></i
-            ></a>
+            >
+              <b>Escolher plano mensal</b>
+              <img
+                src="/src/assets/img/bmv/maoClique.svg"
+                style="
+                  position: absolute;
+                  /* top: 143%;
+                right: 200px; */
+                  transform: translateY(50%);
+                  width: 40px;
+                  height: 40x;
+                  animation: piscar 1s infinite;
+                "
+                alt="Ícone de Mãozinha"
+              />
+            </a>
           </div>
         </div>
         <!-- End Pricing Item -->
       </div>
     </div>
-    <formasDePagEsiteSeguro/>
+    <formasDePagEsiteSeguro />
   </section>
 </template>

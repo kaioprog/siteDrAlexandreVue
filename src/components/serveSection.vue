@@ -56,27 +56,27 @@
               <i style="color: #050a30" class="bi bi-phone"></i> Tão fácil
               quanto curtir uma série no celular
             </h3>
-            <h3 style="font-size: 1.6rem; margin-bottom: 2rem; color: #050a30">
+            <h3 style="font-size: 1.6rem; margin-bottom: 0.5rem; color: #050a30">
               <i style="color: #050a30" class="bi bi-play-btn"></i> Use
               exercícios fáceis para:
             </h3>
           </div>
           <ul>
-            <li>
-              <i style="color: #050a30" class="bi bi-check-circle"></i>
-              <span style="color: #050a30">Aliviar Dores</span>
+            <li style="padding-bottom: 0;">
+              <i style="color: #050a30;font-size:1rem" class="bi bi-check-circle"></i>
+              <span style="color: #050a30;font-size:1rem">Aliviar Dores</span>
             </li>
-            <li>
-              <i style="color: #050a30" class="bi bi-check-circle"></i>
-              <span style="color: #050a30">Melhorar seu Movimento</span>
+            <li style="padding-bottom: 0;">
+              <i style="color: #050a30;font-size:1rem" class="bi bi-check-circle"></i>
+              <span style="color: #050a30;font-size:1rem">Melhorar seu Movimento</span>
             </li>
-            <li>
-              <i style="color: #050a30" class="bi bi-check-circle"></i>
-              <span style="color: #050a30">Ter mais Saúde</span>
+            <li style="padding-bottom: 0;">
+              <i style="color: #050a30;font-size:1rem" class="bi bi-check-circle"></i>
+              <span style="color: #050a30;font-size:1rem">Ter mais Saúde</span>
             </li>
-            <li>
-              <i style="color: #050a30" class="bi bi-check-circle"></i>
-              <span>Acelerar seu Tratamento</span>
+            <li style="padding-bottom: 0;">
+              <i style="color: #050a30;font-size:1rem" class="bi bi-check-circle"></i>
+              <span style="color: #050a30;font-size:1rem">Acelerar seu Tratamento</span>
             </li>
           </ul>
 

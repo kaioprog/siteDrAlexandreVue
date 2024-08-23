@@ -6,7 +6,7 @@
       data-aos="fade-up"
       data-aos-offset="10"
     >
-      <h2>Por que você deve fazer parte ​da Programa BMV</h2>
+      <h2>Por que você deve fazer parte ​do Programa BMV</h2>
       <!-- <p>
           Necessitatibus eius consequatur ex aliquid fuga eum quidem sint
           consectetur velit

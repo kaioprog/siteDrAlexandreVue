@@ -894,6 +894,7 @@ h6 {
   font-size: 24px;
   font-weight: bold;
   color: #63b2af;
+  margin-right: 10px;
 }
 
 /*--------------------------------------------------------------
@@ -1660,19 +1661,19 @@ section,
 
 .faq .faq-container .faq-item {
   position: relative;
-  padding: 20px;
+  /* padding: 0px 20px 20px 20px; */
   margin-bottom: 15px;
-  border: 2px solid rgb(7 187 148);
+  /* border: 2px solid rgb(7 187 148); */
   border-radius: 5px;
   overflow: hidden;
-  background-color: white;
+  background-color: #63b2af;
 }
 
 .faq .faq-container .faq-item:last-child {
   margin-bottom: 0;
 }
 
-.faq .faq-container .faq-item h3 {
+.faq .faq-container .faq-item div h3 {
   font-weight: 600;
   font-size: 16px;
   line-height: 24px;
@@ -1683,12 +1684,12 @@ section,
   align-items: center;
 }
 
-.faq .faq-container .faq-item h3 .num {
+.faq .faq-container .faq-item div h3 .num {
   color: var(--accent-color);
   padding-right: 5px;
 }
 
-.faq .faq-container .faq-item h3:hover {
+.faq .faq-container .faq-item div h3:hover {
   color: var(--accent-color);
 }
 
@@ -1696,7 +1697,7 @@ section,
   display: grid;
   grid-template-rows: 0fr;
   transition: 0.3s ease-in-out;
-  visibility: hidden;
+  display: none;
   opacity: 0;
 }
 
@@ -1725,13 +1726,13 @@ section,
   background-color: white
 }
 
-.faq .faq-container .faq-active h3 {
+.faq .faq-container .faq-active div h3 {
   color: var(--accent-color);
 }
 
 .faq .faq-container .faq-active .faq-content {
   grid-template-rows: 1fr;
-  visibility: visible;
+  display: block;
   opacity: 1;
   padding-top: 10px;
 }

@@ -45,7 +45,7 @@
               Há 8 anos aliviando a dor de milhões de pessoas pela internet
             </h2>
             <p style="font-size: large; text-align: justify;color: #050a30">
-              <strong>Dr. Alexandre Mota</strong>&nbsp;se dedica à missão de ajudar pessoas no mundo todo a terem mais saúde, qualidade de vida, liberdade e aliviarem dores e com exercícios fáceis que devolvem o&nbsp;<strong>Bom Movimento</strong>&nbsp;para o corpo. Além de <strong>Fisioterapeuta</strong> (UESPI - 2006), Dr. Alexandre concluiu formações e especialidades como <strong>Osteopatia</strong> (EBOM e EBRAFIM), <strong>RPG</strong> (método Souchard), Pilates Contemporâneo e <strong>Especialização em</strong> <strong>Acupuntura Tradicional Chinesa</strong> (FSJ).
+              <strong>Dr. Alexandre Mota</strong>&nbsp;se dedica à missão de ajudar pessoas no mundo todo a terem mais saúde, qualidade de vida, liberdade e aliviarem dores com exercícios fáceis que devolvem o&nbsp;<strong>Bom Movimento</strong>&nbsp;para o corpo. Além de <strong>Fisioterapeuta</strong> (UESPI - 2006), Dr. Alexandre concluiu formações e especialidades como <strong>Osteopatia</strong> (EBOM e EBRAFIM), <strong>RPG</strong> (método Souchard), Pilates Contemporâneo e <strong>Especialização em</strong> <strong>Acupuntura Tradicional Chinesa</strong> (FSJ).
             </p>
             <!-- <a href="https://www.youtube.com/@DrAlexandreMota" target="_blank" class="btn more-btn">Ver canal</a> -->
           </div>

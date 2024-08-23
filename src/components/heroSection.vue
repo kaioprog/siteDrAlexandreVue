@@ -4,7 +4,7 @@
   // console.log(larguraTela.value)
 </script>
 <template>
-    <section id="hero" class="hero section" style="background-color: #050a30;" :style="larguraTela < 600 ? 'min-height: 20vh; margin-top: 0rem;' : ''">
+    <section id="hero" class="hero section" style="background-color: #050a30;" :style="larguraTela < 600 ? 'min-height: 10vh; margin-top: 0rem;' : ''">
       <!-- <div class="hero-bg"> -->
       <div style="display: flex;justify-content: center;width: 100%;">
         <img src="/src/assets/img/bmv/topoTransparente.png" alt="" style="width: 100%;"/>

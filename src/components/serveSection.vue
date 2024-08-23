@@ -85,14 +85,14 @@
             <img
               src="/src/assets/img/bmv/maoClique.svg"
               style="
-                position: static;
-                /* top: 143%;
+                  position: absolute;
+                  /* top: 143%;
                 right: 200px; */
-                transform: translateY(50%);
-                width: 45px;
-                height: 45px;
-                animation: piscar 1s infinite;
-              "
+                  transform: translateY(50%);
+                  width: 40px;
+                  height: 40x;
+                  animation: piscar 1s infinite;
+                "
               alt="Ícone de Mãozinha"
             />
           </a>

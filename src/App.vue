@@ -22,6 +22,7 @@
     <pqUsarBmw/>
     <precosBmw/>
     <perguntas/>
+    <precosBmw/>
     <div class="pb-4">
       <formasDePagSeguro/>
     </div>

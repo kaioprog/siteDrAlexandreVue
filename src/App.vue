@@ -8,7 +8,7 @@
   import pqUsarBmw from "./components/pqUsarBmw.vue";
   import precosBmw from "./components/precosBmw.vue";
   import perguntas from "./components/perguntas.vue";
-  import formasDePagSeguro from "./components/formasdepagesiteseguro.vue";
+  // import formasDePagSeguro from "./components/formasdepagesiteseguro.vue";
 </script>
 
 <template>
@@ -23,9 +23,9 @@
     <precosBmw/>
     <perguntas/>
     <precosBmw/>
-    <div class="pb-4">
+    <!-- <div class="pb-4">
       <formasDePagSeguro/>
-    </div>
+    </div> -->
   </main>
    <!-- Scroll Top -->
    <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i

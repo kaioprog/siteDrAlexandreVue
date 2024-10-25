@@ -30,7 +30,7 @@ import formasDePagEsiteSeguro from "./formasDePagEsiteSeguro.vue";
                 Ullam mollitia quasi nobis soluta in voluptatum et sint palora
                 dex strater
               </p> -->
-            <h6 style="color: #050a30">12x de R$ 40,06</h6>
+            <h6 style="color: #050a30;font-weight: bold">R$ 40,06 POR MÊS</h6>
             <h6 style="color: #050a30">Ou</h6>
             <h6 style="color: #050a30">R$ 399<span> / ano</span></h6>
             <a
@@ -72,7 +72,7 @@ import formasDePagEsiteSeguro from "./formasDePagEsiteSeguro.vue";
                 Ullam mollitia quasi nobis soluta in voluptatum et sint palora
                 dex strater
               </p> -->
-            <h6 style="color: #050a30">12x de R$ 51,49</h6>
+            <h6 style="color: #050a30;font-weight: bold">R$ 51,49 POR MÊS</h6>
             <h6 style="color: #050a30">Ou</h6>
             <h6 style="color: #050a30">R$ 279<span> / 6 meses</span></h6>
             <a
@@ -114,7 +114,7 @@ import formasDePagEsiteSeguro from "./formasDePagEsiteSeguro.vue";
                 Ullam mollitia quasi nobis soluta in voluptatum et sint palora
                 dex strater
               </p> -->
-            <h6 style="color: #050a30">R$ 59,90<span> / mês</span></h6>
+            <h6 style="color: #050a30;font-weight: bold">R$ 59,90 POR MÊS</h6>
             <a
               class="btn-getstarted text-center mt-3"
               style="font-size: 19px"
